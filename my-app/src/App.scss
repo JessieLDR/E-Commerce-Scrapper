@@ -1,0 +1,25 @@
+.App{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: center;
+    .App-header{
+        margin: 20px;
+    }
+    .buttons{
+        margin: 20px;
+    }
+    .input-box{
+        margin: 20px;
+    }
+
+    .display-button{
+        margin: 20px;
+    }
+
+    .trigger-button{
+        margin: 20px;
+    }
+}
